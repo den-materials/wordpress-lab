@@ -1,8 +1,8 @@
 # Wordpress Lab
 
-Now that we've learned a little bit about Wordpress, we're going to make a real website for [Jake](jakewilliamson.squarespace.com).
+Now that we've learned a little bit about Wordpress, we're going to make a real website for [Jake](http://jakewilliamson.squarespace.com).
 
-Jake is a real person - he's an actor in New York who's appeared in multiple films, stage plays, and TV shows, including Celebrity Ghost stories - spooky!
+Jake is a real person - he's an actor in New York who's appeared in multiple films, stage plays, and TV shows, including Celebrity Ghost Stories - spooky!
 
 Jake's one fatal flaw? His website sucks. He wishes it looked more like these:
 
