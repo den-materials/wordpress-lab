@@ -1,25 +1,25 @@
 # Wordpress Lab
 
-Now that we've learned a little bit about Wordpress, we're going to make a website for Robyn!
+Now that we've learned a little bit about Wordpress, we're going to make a website for **Brian**!
 
-Robyn is a real person - she's created multiple business, including Just4MyPet and Bachelorette Bitches. Her latest venture is Poop Tulips - artificially-poop-scented flowers you can send to someone who deserves it (completely legally!). 
+Brian is a real person - he's a photographer that's looking to rebrand himself as a photojournalist. This means a new website that pivots him away from wedding and event photography, and towards serious, news-focused work!
 
+In this repo, you'll find a `resources` folder with a single document in it. It contains instructions for how Brian would like his site to look and function, as well as a link to a Google Drive folder with his photography in it.
 
-What Robyn would really like is a brand new Wordpress site that she can edit herself. So we're going to make some options for her! To start:
+You might notice that Brian's requests are pretty minimal - that's because he's not a designer, and doesn't have an established brand. He's counting on you to use your own creativity and problem solving skills to fill in the blanks with something that stands out!
 
-1. Study the included materials - Robyn's assets, and her design requests. 
-1. The theme Robyn wants to use is included in the resources directory - you can read more about it [here](https://themeforest.net/item/gecko-powerful-ajax-woocommerce-theme/15863658). Specifically, she would like the `Fashion Store #2` layout. Specific changes she wants to it are covered in the `ClientRequests` doc.
-1. Robyn would like to use the [WooCommerce Plugin](https://wordpress.org/plugins/woocommerce/) to sell her products (don't get too in the weeds with this install - ensure that it works and save things like tax table configuration for 'sprint 2').
-1. Host your wordpress instance on [Heroku](https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku) or your own hosting account so that Robyn can see it. I suggest using [Duplicator](https://wordpress.org/plugins/duplicator/) to easily move your WP instance from one host to another.
+1. Study the included materials - Brian's assets, and his design requests. 
+1. Find a theme that you think will fit the bill, or hack at the one pre-installed by Wordpress.
+1. Set up as much of the site as you can in the time you have. Keep in mind that Brian is non-technical, and will want to edit this site himself - as a result, you should stay away from hardcoded pages, or large chuncks of HTML in the admin section. Work **with** Wordpress to maintain non-techinical usability.
+1. Host your wordpress instance on [Heroku](https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku) or your own hosting account so that Brian can see it. I suggest using [Duplicator](https://wordpress.org/plugins/duplicator/) to easily move your WP instance from one host to another.
 
-
-After you're done, Robyn will look at everyone's submissions. If she likes one, she'll use it, and you'll be able to add a new project to your portfolio!
+After you're done, Brian will look at everyone's submissions. If he likes your site, he'll use it, and you'll be able to add a new project to your portfolio!
 
 ## Assignment
 
 Submit a link to your live WP instance. 
 
-You are not expected to deliver a fully-functional finished product - all I want is **a live Wordpress instance that has enough of Robyn's requests that you can demo it to her**. If your design is picked, you may be able to continue your work with the site afterwards.
+You are not expected to deliver a fully-functional finished product - all I want is **a live Wordpress instance that has enough of Brian's requests that you can demo it to him**. If your design is picked, you may be able to continue your work with the site afterwards.
 
 ## Resources
 
