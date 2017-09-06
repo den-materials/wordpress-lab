@@ -8,6 +8,7 @@ In this repo, you'll find a `resources` folder with a single document in it. It 
 
 You might notice that Brian's requests are pretty minimal - that's because he's not a designer, and doesn't have an established brand. He's counting on you to use your own creativity and problem solving skills to fill in the blanks with something that stands out!
 
+To get started:
 1. Study the included materials - Brian's assets, and his design requests. 
 1. Find a theme that you think will fit the bill, or hack at the one pre-installed by Wordpress.
 1. Set up as much of the site as you can in the time you have. Keep in mind that Brian is non-technical, and will want to edit this site himself - as a result, you should stay away from hardcoded pages, or large chuncks of HTML in the admin section. Work **with** Wordpress to maintain non-techinical usability.
