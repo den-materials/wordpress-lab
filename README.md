@@ -1,26 +1,23 @@
 # Wordpress Lab
 
-Now that we've learned a little bit about Wordpress, we're going to make a website for **Brian**!
+Now that we've learned a little bit about Wordpress, we're going to make a website for **INSERT PERSON HERE**!
 
-Brian is a real person - he's a photographer that's looking to rebrand himself as a photojournalist. This means a new website that pivots him away from wedding and event photography, and towards serious, news-focused work!
+Everyone needs a website - even if they don't know it yet! Your job is to find someone who needs a site, and make them a working rough draft. You'll need to collect information on what they want, and deliver a working prototype that they can review!
 
-In this repo, you'll find a `resources` folder with a single document in it. It contains instructions for how Brian would like his site to look and function, as well as a link to a Google Drive folder with his photography in it.
+If you can't find a person who wants a website, you can make a fictional website for a pretend client. 
 
-You might notice that Brian's requests are pretty minimal - that's because he's not a designer, and doesn't have an established brand. He's counting on you to use your own creativity and problem solving skills to fill in the blanks with something that stands out!
 
 To get started:
-1. Study the included materials - Brian's assets, and his design requests. 
-1. Find a theme that you think will fit the bill, or hack at the one pre-installed by Wordpress.
-1. Set up as much of the site as you can in the time you have. Keep in mind that Brian is non-technical, and will want to edit this site himself - as a result, you should stay away from hardcoded pages, or large chuncks of HTML in the admin section. Work **with** Wordpress to maintain non-techinical usability.
-1. Host your wordpress instance on [Heroku](https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku) or your own hosting account so that Brian can see it. I suggest using [Duplicator](https://wordpress.org/plugins/duplicator/) to easily move your WP instance from one host to another.
-
-After you're done, Brian will look at everyone's submissions. If he likes your site, he'll use it, and you'll be able to add a new project to your portfolio!
+1. Study the requests of your new client - make a list or scope doc. Anything format works - just make sure you've gathered all neccssary materials! 
+2. Find a theme that you think will fit the bill, or hack at the one pre-installed by Wordpress.
+3. Set up as much of the site as you can in the time you have. Keep in mind that Wordpress was designed so that non-technical people can update their websites - so, you should stay away from hardcoded pages, or large chuncks of HTML in the admin section. Work **with** Wordpress to maintain non-techinical usability.
+4. Host your wordpress instance on [Heroku](https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku) or your own hosting account so that your client can see it. I suggest using [Duplicator](https://wordpress.org/plugins/duplicator/) to easily move your WP instance from one host to another.
 
 ## Assignment
 
 Submit a link to your live WP instance. 
 
-You are not expected to deliver a fully-functional finished product - all I want is **a live Wordpress instance that has enough of Brian's requests that you can demo it to him**. If your design is picked, you may be able to continue your work with the site afterwards.
+You are not expected to deliver a fully-functional finished product - all I want is **a live Wordpress instance that has enough of your client's requests that you can demo it to them**. 
 
 ## Resources
 
