@@ -1,23 +1,39 @@
 # Wordpress Lab
 
-Now that we've learned a little bit about Wordpress, we're going to make a website for **INSERT PERSON HERE**!
+Now that we've learned a little bit about Wordpress, we're going to make a website for your lightning talk!
 
-Everyone needs a website - even if they don't know it yet! Your job is to find someone who needs a site, and make them a working rough draft. You'll need to collect information on what they want, and deliver a working prototype that they can review!
+What better way to present your research work than with a research project of its own--one into the basic features of Wordpress?
 
-If you can't find a person who wants a website, you can make a fictional website for a pretend client. 
+You will need to use this Wordpress site as a major component of your lightning talk visual aids.
 
+You will need three of the following pieces to bring your Wordpress presentation piece to life:
 
-To get started:
-1. Study the requests of your new client - make a list or scope doc. Anything format works - just make sure you've gathered all neccssary materials! 
-2. Find a theme that you think will fit the bill, or hack at the one pre-installed by Wordpress.
-3. Set up as much of the site as you can in the time you have. Keep in mind that Wordpress was designed so that non-technical people can update their websites - so, you should stay away from hardcoded pages, or large chuncks of HTML in the admin section. Work **with** Wordpress to maintain non-techinical usability.
-4. Host your wordpress instance on [Heroku](https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku) or your own hosting account so that your client can see it. I suggest using [Duplicator](https://wordpress.org/plugins/duplicator/) to easily move your WP instance from one host to another.
+1. At least two "pages", i.e. fully separate single HTML pages
+2. An image gallery with at least 3 images
+3. A plugin
+4. At least two "posts", i.e. modular pieces of HTML
+5. Add or customize a header and footer for your theme
+6. Host your wordpress instance on [Heroku](https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku) or your own hosting account so that your client can see it. I suggest using [Duplicator](https://wordpress.org/plugins/duplicator/) to easily move your WP instance from one host to another.
 
 ## Assignment
 
-Submit a link to your live WP instance. 
+There are two options here: **hard mode** and **easy mode**.
 
-You are not expected to deliver a fully-functional finished product - all I want is **a live Wordpress instance that has enough of your client's requests that you can demo it to them**. 
+### Hard Mode
+
+Use the setup steps from the last lesson to create a local Wordpress site.  Then complete step 6 above to deploy your site.
+
+### Easy Mode
+
+Go to http://www.wordpress.com.  Set up a new account, and create your first site.  You will see a lot of similar options from the last class, but not all of them.
+
+### Wrapping Up
+
+Whether you follow the easy mode or hard mode path, submit a link to your live WP instance to #wdi6 after you finish your Lightning Talk.
+
+Your instructional team will gather all these links into a repo, and share with the class.
+
+Don't worry too much about perfecting your Wordpress site.  All we want to see is the work you put into your Lightning Talk in a convenient format.  The talk itself, and the project you build, are the more important parts.
 
 ## Resources
 
